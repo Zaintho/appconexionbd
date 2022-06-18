@@ -1,0 +1,20 @@
+{
+  "santos": [
+    {
+      "id": 3,
+      "nombre": "Cali"
+    },
+    {
+      "id": 4,
+      "nombre": "Bucaramanga"
+    },
+    {
+      "id": 5,
+      "nombre": "Santander"
+    },
+    {
+      "nombre": "Pasto",
+      "id": 6
+    }
+  ]
+}

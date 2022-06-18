@@ -1,0 +1,16 @@
+{
+  "municipios": [
+    {
+      "id": "1",
+      "nombre": "Antioquia"
+    },
+    {
+      "id": "2",
+      "nombre": "Bogotá"
+    },
+    {
+      "id": "3",
+      "nombre": "Cali"
+    }
+  ]
+}
